@@ -79,13 +79,13 @@ def valid_for_solve(value, row_number, col_number):
     counter_row = 0
     counter_col = 0
     counter_box = 0
-    for cols in range(0, 9):
+    for cols in range(9):
         if value == grid[row_number][cols]:
             counter_row += 1
-    for rows in range(0, 9):
+    for rows in range(9):
         if value == grid[rows][col_number]:
             counter_col += 1
-    for rows in range(0, 3):
+    for rows in range(3):
         for cols in range(0, 3):
             if value == grid[rows + row_number - row_number % 3][cols + col_number - col_number % 3]:
                 counter_box += 1
