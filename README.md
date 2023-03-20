@@ -9,9 +9,18 @@
 </p>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HRiRxyVHUJs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+https://user-images.githubusercontent.com/128253048/226261883-e7271356-94cd-433e-a157-5bd61757b05b.mp4
 
 
+## About
+ * Sudoku  is a logic-based, combinatorial number placement puzzle game. The objective of
+this game is to fill a 𝑁 × 𝑁 grid with digits so that every row, column and inner box is filled with
+number from 1 to 𝑁 without duplicates. 
+ * In most situations, a Sudoku game should have a unique solution. However,
+there can be cases that a Sudoku game has multiple solutions. Usually a game with multiple
+solution is considered to be more difficult than the one that has a unique solution.
+ * The engine is made using Tkinter library in Python which provides a user-friendly GUI. The algorithm which solves the puzzle is a backtracking algorithm with a 9^𝑁 time complexity, where 𝑁 represents the number of empty fields.
 
 ## Key Features
 
