@@ -1,7 +1,7 @@
 # Sudoko game / solver
 
 
-<h2 align="center">A sudoku game / solver desktop app built with Tkinter (Python) </h2>
+<h2 align="center">A sudoku game / solver desktop application built in Python with Tkinter library. </h2>
 
 <p align="center">
   <a href="#About">About</a> •
