@@ -4,13 +4,14 @@
 <h2 align="center">A sudoku game / solver desktop application built in Python with Tkinter library. </h2>
 
 <p align="center">
+  <a href="#Preview">Preview</a> •
   <a href="#About">About</a> •
   <a href="#Key-features">Key-features</a> 
 </p>
 
 
-
-https://user-images.githubusercontent.com/128253048/226261883-e7271356-94cd-433e-a157-5bd61757b05b.mp4
+## Preview
+  https://user-images.githubusercontent.com/128253048/226261883-e7271356-94cd-433e-a157-5bd61757b05b.mp4
 
 
 ## About
